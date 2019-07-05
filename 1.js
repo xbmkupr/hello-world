@@ -1,1 +1,4 @@
-alert("Hello World");
+(function(){
+  console.log('Hello World!');
+  alert("Hello World");
+})();
